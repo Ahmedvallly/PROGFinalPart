@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|c:\\users\\ahmed\\downloads\\st10146418_prog6211_poe_final\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|solutionrelative:recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|c:\\users\\ahmed\\downloads\\st10146418_prog6211_poe_final\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|c:\\users\\ahmed\\downloads\\st10146418_prog6211_poe_final\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|c:\\users\\ahmed\\downloads\\st10146418_prog6211_poe_final\\displayrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|solutionrelative:displayrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|c:\\users\\ahmed\\downloads\\st10146418_prog6211_poe_final\\displayrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|solutionrelative:displayrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|c:\\users\\ahmed\\downloads\\st10146418_prog6211_poe_final\\st10251131_prog6211_poe_final.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|solutionrelative:st10251131_prog6211_poe_final.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|c:\\users\\ahmed\\downloads\\st10146418_prog6211_poe_final\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|c:\\users\\ahmed\\downloads\\st10146418_prog6211_poe_final\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|c:\\users\\ahmed\\downloads\\st10146418_prog6211_poe_final\\addrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|solutionrelative:addrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|c:\\users\\ahmed\\downloads\\st10146418_prog6211_poe_final\\recipehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|solutionrelative:recipehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|c:\\users\\ahmed\\downloads\\st10146418_prog6211_poe_final\\textwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|solutionrelative:textwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|c:\\users\\ahmed\\downloads\\st10146418_prog6211_poe_final\\addrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|solutionrelative:addrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|c:\\users\\ahmed\\downloads\\st10146418_prog6211_poe_final\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FD3D24-B4B2-4B3A-9AEB-9E783CE02EB8}|ST10251131_PROG6211_POE_FINAL.csproj|solutionrelative:ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ST10251131_PROG6211_POE_FINAL",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\ST10251131_PROG6211_POE_FINAL.csproj",
+              "RelativeDocumentMoniker": "ST10251131_PROG6211_POE_FINAL.csproj",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\ST10251131_PROG6211_POE_FINAL.csproj",
+              "RelativeToolTip": "ST10251131_PROG6211_POE_FINAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T20:38:45.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayRecipe.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\DisplayRecipe.xaml.cs",
+              "RelativeDocumentMoniker": "DisplayRecipe.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\DisplayRecipe.xaml.cs",
+              "RelativeToolTip": "DisplayRecipe.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:28:30.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAD4vwgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:28:13.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddRecipeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\AddRecipeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AddRecipeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\AddRecipeWindow.xaml.cs",
+              "RelativeToolTip": "AddRecipeWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:27:16.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\Recipe.cs",
+              "RelativeDocumentMoniker": "Recipe.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\Recipe.cs",
+              "RelativeToolTip": "Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:26:07.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecipeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\RecipeHandler.cs",
+              "RelativeDocumentMoniker": "RecipeHandler.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\RecipeHandler.cs",
+              "RelativeToolTip": "RecipeHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:26:07.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TextWindow.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\TextWindow.cs",
+              "RelativeDocumentMoniker": "TextWindow.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\TextWindow.cs",
+              "RelativeToolTip": "TextWindow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:26:06.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:26:06.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddRecipeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\AddRecipeWindow.xaml",
+              "RelativeDocumentMoniker": "AddRecipeWindow.xaml",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\AddRecipeWindow.xaml",
+              "RelativeToolTip": "AddRecipeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T20:26:06.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T20:26:06.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisplayRecipe.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\DisplayRecipe.xaml",
+              "RelativeDocumentMoniker": "DisplayRecipe.xaml",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\DisplayRecipe.xaml",
+              "RelativeToolTip": "DisplayRecipe.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T20:26:05.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Ingredient.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\Ingredient.cs",
+              "RelativeToolTip": "Ingredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:26:05.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\ST10146418_PROG6211_POE_FINAL\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T20:25:59.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
